@@ -66,3 +66,4 @@
     </a>
 </div>
 
+<div style="text-align:center;padding:16px"><a href="https://germanbartoli.pages.dev/" target="_blank" rel="noopener noreferrer"><img src="/UTNAcademia/german-bartoli.webp" alt="German Bartoli - Developer" width="64" height="64"><br>Hecho por Germ&aacute;n Bartoli</a></div>
